@@ -47,7 +47,7 @@ To summarize this are the steps to enter into AT mode:
 * Step 2: Supply power to USB-TTL (the PIN34 is also supplied with high level since the PIN34 is connected with
 power supply PIN). Then the HC-05 will enter to AT module.
 
-#Chaning Baud rate in Arduino IDE's Serial Monitor
+#Chaning Baud rate in Arduino IDE Serial Monitor
 Now we just need to open Arduino IDE and change Baud rate.
 
 * Step 1: Download Arduino IDE
