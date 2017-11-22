@@ -10,8 +10,7 @@ permalink:           pretty
 # Setup
 title:               Shyyko Serhiy
 tagline:             'small things'
-description:         'You can reach me out on <a href="https://github.com/shyykoserhiy">github</a>, <a
-href="https://linkedin.com/in/shyykoserhiy">linkedin</a> or by <a href="mailto:shyyko.serhiy@gmail.com">email</a>.'
+description:         'You can reach me out on <a href="https://github.com/shyykoserhiy">github</a>, <a href="https://linkedin.com/in/shyykoserhiy">linkedin</a> or by <a href="mailto:shyyko.serhiy@gmail.com">email</a>.'
 url:                 http://shyyko.com
 baseurl:             /
 paginate:            5
