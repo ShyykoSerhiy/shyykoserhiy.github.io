@@ -8,7 +8,6 @@ redcarpet:
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               Shyyko Serhiy
@@ -18,6 +17,10 @@ href="https://linkedin.com/in/shyykoserhiy">linkedin</a> or by <a href="mailto:s
 url:                 http://shyyko.com
 baseurl:             /
 paginate:            5
+plugins: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+
 
 # About/contact
 author:
